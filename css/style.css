@@ -74,14 +74,14 @@ body{}
       display: none;
        }
 .row_list_html:hover #mark {
-display: inline-block;
-}  
+                           display: inline-block;
+                          }  
 .row_list_html:hover  #delete {
-display: inline-block;
-} 
+                              display: inline-block;
+                              } 
 .row_list_html:hover #break{
-display: inline-block;
-}  
+                           display: inline-block;
+                           }  
 .row_list_html:hover {
-border-bottom-color: #000;
-}                                
+                    border-bottom-color: #000;
+                     }                                
